@@ -25,16 +25,16 @@ Wix
 ## Screenshots
 
 ### Home Page
-![Home Page](images/homepage.png)
+![Home Page](https://github.com/uwamahorohyguette-12/hyguette/blob/main/Home.png?raw=true)
 
 ### Products Page
-![Products Page](images/products.png)
+![Products Page](https://github.com/uwamahorohyguette-12/hyguette/blob/main/product.png?raw=true)
 
 ### About Us Page
-![About Us Page](images/aboutus.png)
+![About Us Page](https://github.com/uwamahorohyguette-12/hyguette/blob/main/aboutus.png?raw=true)
 
 ### Contact Us Page
-![Contact Us Page](images/contact.png)
+![Contact Us Page](https://github.com/uwamahorohyguette-12/hyguette/blob/main/contactus.png?raw=true)
 
 ## Challenges
 
@@ -54,4 +54,4 @@ https://yourwebsiteurl.com
 
 ## GitHub Repository Link
 
-https://github.com/yourusername/E-Commerce-NoCode-Project
+https://github.com/uwamahorohyguette-12/hyguette
