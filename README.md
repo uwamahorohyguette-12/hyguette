@@ -50,8 +50,8 @@ Wix
 
 ## Live Website Link
 
-https://yourwebsiteurl.com
+https://uwamahorohyguette6.wixsite.com/hyguette-fashion-sho
 
 ## GitHub Repository Link
 
-https://github.com/uwamahorohyguette-12/hyguette
+https://github.com/uwamahorohyguette-12/hyguette/
